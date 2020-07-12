@@ -80,7 +80,7 @@
     "bootstrap": "v4.3.1",
     "coreutils": "^0.3.0",
     "gettext": "0.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.7"
   }
 }
