@@ -1,10 +1,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- wp_head function -->
+  <!-- end wp_head function -->
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="<?= get_template_directory_uri(); ?>/assets/styles/main.css">
+  <link rel="stylesheet" href="@asset('styles/main.css')">
   <!-- Google font import -->
   <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,600;0,800;1,700&display=swap" rel="stylesheet">
   <!-- Bootstrap JS -->
