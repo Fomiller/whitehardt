@@ -4,7 +4,7 @@
     <!-- Logo -->
     <div class="row justify-content-center">
       <div class="col-4">
-        <img src="<?= get_template_directory_uri(); ?>/assets/images/s&s_logo_white.png" class="img-fluid"/>
+        <img src="@asset('images/s&s_logo_white.png')" class="img-fluid"/>
       </div>
     </div>
     <!-- footer links -->
